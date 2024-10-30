@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-<!--
-**davodavodavo3/davodavodavo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGcyYWQwZG51eDdhcHl1a3R3ZzBvbGYzN3c0aWZzb3FkczNxOHNzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp" width="450" alt="davodavodavo3" />
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
+- 🔭: I'm interested in building creative projects using PHP, CSS and JS libraries.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,40 +14,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450" alt="ecem gokdogan" />
-</div>
+- :envelope: You can contact me at davodavodavo333@gmail.com
 
 <br>
 
-- :woman_technologist: I'm interested in building creative projects using CSS and JS libraries.
-- 🌟 I consistently share my original works on my [Codepen profile](https://codepen.io/ecemgo) and [Youtube channel](https://www.youtube.com/@ecemgokdogan).
-- :iphone: I worked on Augmented Reality (AR) in my master's thesis.
-- :art: I'm also interested in watercolor and oil painting, you can see [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
-- :envelope: You can contact me at gokdoganecem@gmail.com
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,svg,figma,md,vscode,codepen,netlify)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,redis,aws,linux,ubuntu,bash,html,sass,css,js,npm,webpack,jquery,tailwind,bootstrap,git,github,bitbucket,postman,ps,svg,md,atom,phpstorm,codepen,netlify,windows,wordpress)](https://skillicons.dev) 
 
 <br>
 
 <div align="left">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ecemgo&show_icons=true&theme=dracula" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" /> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=davodavodavo3&theme=dracula&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=davodavodavo3&show_icons=true&theme=dracula" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davodavodavo3&layout=compact&theme=dracula&hide_border=true" /> -->
 </div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/>
+<img src="https://komarev.com/ghpvc/?username=davodavodavo3&color=31c9c7&style=flat" alt="ecemgo"/>
   
 <!--
 <div align="left">
 
   <h3>Tools I Use</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -63,8 +53,8 @@ Here are some ideas to get you started:
 <br> 
 
 GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`, 'vue-dark').
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" /></p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&langs_count=10" /></p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&hide=html&langs_count=10" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davodavodavo3&layout=compact&theme=dracula&hide_border=true" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davodavodavo3&layout=compact&theme=buefy&langs_count=10" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davodavodavo3&layout=compact&theme=buefy&hide=html&langs_count=10" /></p>
 
 -->
