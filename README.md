@@ -19,12 +19,8 @@
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,redis,aws,linux,ubuntu,bash,html,sass,css,js,npm,webpack,jquery,tailwind,bootstrap,git,github,bitbucket,postman,ps,svg,md,atom,phpstorm,codepen,netlify,windows,wordpress)](https://skillicons.dev) <br><br>
+<img src="https://komarev.com/ghpvc/?username=davodavodavo3&color=31c9c7&style=flat" alt="davodavodavo3"/>
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davodavodavo3&layout=donut&langs_count=8&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davodavodavo3&show_icons=true&theme=dracula&rank_icon=github)
-<br>
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=davodavodavo3&color=31c9c7&style=flat" alt="davodavodavo3"/>
-
